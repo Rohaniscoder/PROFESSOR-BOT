@@ -2,7 +2,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ Onwer <a>href=https://t.me/UNKNOWN_MAN_ON_MISSION>Unknown</a>
+✯ Onwer <a href=https://t.me/UNKNOWN_MAN_ON_MISSION>Unknown</a>
 ✯ Library : Program
 ✯ Language : Python 3 
 ✯ Data Base : Mongo-Db
@@ -10,7 +10,7 @@ class script(object):
 
     SOURCE_TXT = """<b>NOTE:</b>
 - 
-<i> You can Contact Owner If You Have Any Problem While Deploying Or Anything ( Bugs , Issues Etc )❗</i>
+<i> You can Contact Owner If You Have Any Problem While Deploying Or Anything ( Bugs , Issues Etc )❗</i>"""
 <i> I will Reply To Your Message As Soon I See Your Message. Don't Spam / Abuse To Owner Otherwise I Know How To Block 🤫😎 </i>"""
     
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
@@ -25,9 +25,7 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/mkn_bots_updates https://t.me/mkn_bots_updates</code>
-
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/mkn_bots_updates><b>𝙼𝙺𝙽 𝙱𝙾𝚃𝚉</b></a>"""
+<code>/batch https://t.me/Cinema_Moviesz https://t.me/Cinema_Moviesz</code>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
