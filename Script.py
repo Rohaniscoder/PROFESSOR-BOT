@@ -2,16 +2,16 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ Onwer href=https://t.me/UNKNOWN_MAN_ON_MISSION>Unknown</a>
+✯ Onwer <a>href=https://t.me/UNKNOWN_MAN_ON_MISSION>Unknown</a>
 ✯ Library : Program
 ✯ Language : Python 3 
-✯ Dat Base : Mongo-Db
-✯ Bot Server : Your Choice """
+✯ Data Base : Mongo-Db
+✯ Bot Server : Deploy Anywhere"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- Source Code Click Here 👉 :<a href=https://github.com/Rohaniscoder/PROFESSOR-BOT>Repo Link 🔗</a>
-<b> You can Contact Owner If You Have Any Problem While Deploying Or Anything ( Bugs , Issues Etc )❗</b>
-<b> I will Reply To Your Message As Soon I See Your Message. Don't Spam / Abuse To Owner Otherwise I Know How To Block 🤫😎 </b>"""
+- 
+<i> You can Contact Owner If You Have Any Problem While Deploying Or Anything ( Bugs , Issues Etc )❗</i>
+<i> I will Reply To Your Message As Soon I See Your Message. Don't Spam / Abuse To Owner Otherwise I Know How To Block 🤫😎 </i>"""
     
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
